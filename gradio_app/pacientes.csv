@@ -1,0 +1,8 @@
+﻿timestamp,nome,idade,convenio,prioridade,motivo
+2026-11-10 19:52:02,Maria Silva,35,Unimed,3,Consulta de rotina.
+2026-11-10 19:52:06,Maria Silva,35,Unimed,3,Consulta de rotina.
+2026-11-10 19:55:53,João Oliveira,42,Particular,1,Consulta preventiva.
+2026-11-10 19:56:48,Ana Costa,28,Bradesco Saúde,2,Dor de cabeça.
+2026-11-10 19:59:35,Pedro Almeida,67,SulAmérica,4,Dor abdominal.
+2026-11-10 20:00:26,Carla Souza,51,Unimed,3,Retorno médico.
+2026-11-10 20:01:14,Lucas Ferreira,19,Outro,5,Febre alta.
